@@ -56,10 +56,10 @@ namespace TextRPG
             }
 
 
-                bool loopEnd = false;
+            bool loopEnd = false;
             string gamble = "??";
             
-            //주의! 아직 루프 탈출 방법 없음
+
             while (!loopEnd)
             {
                 Console.Clear();
