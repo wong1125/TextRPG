@@ -40,7 +40,7 @@ namespace TextRPG
                 }
 
                 Console.WriteLine("\n1. 아이템 구매 \n2. 아이템 판매");
-                Console.WriteLine("\n 0.나가기\n");
+                Console.WriteLine("\n0.나가기\n");
 
                 Console.WriteLine("원하시는 행동을 입력해주세요.");
                 Console.Write(">>");

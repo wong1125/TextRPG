@@ -78,7 +78,7 @@ namespace TextRPG
 
                 List<Item> boughtItemList = LoadBoughtItem(playerItemList, false);
 
-                Console.WriteLine("\n 0.나가기\n");
+                Console.WriteLine("\n0.나가기\n");
 
                 Console.WriteLine("원하시는 행동을 입력해주세요.");
                 Console.Write(">>");

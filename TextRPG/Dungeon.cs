@@ -127,7 +127,7 @@ namespace TextRPG
                 Console.WriteLine($"Gold {pastGold} -> {playerStat.Gold}");
                 Console.WriteLine($"Lv {pastLv} -> {playerStat.Lv}");
 
-                Console.WriteLine("\n 0.나가기\n");
+                Console.WriteLine("\n0.나가기\n");
 
                 Console.WriteLine("원하시는 행동을 입력해주세요.");
                 Console.Write(">>");
@@ -176,7 +176,7 @@ namespace TextRPG
                 Console.WriteLine($"체력 {pastHp} -> {playerStat.Hp}");
                 Console.WriteLine($"Gold {pastGold} -> {playerStat.Gold}");
 
-                Console.WriteLine("\n 0.나가기\n");
+                Console.WriteLine("\n0.나가기\n");
 
                 Console.WriteLine("원하시는 행동을 입력해주세요.");
                 Console.Write(">>");

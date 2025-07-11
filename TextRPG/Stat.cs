@@ -51,7 +51,7 @@ namespace TextRPG
                 Console.WriteLine($"체 력: {s.Hp}");
                 Console.WriteLine($"Gold: {s.Gold}");
 
-                Console.WriteLine("\n 0.나가기\n");
+                Console.WriteLine("\n0.나가기\n");
 
                 Console.WriteLine("원하시는 행동을 입력해주세요.");
                 Console.Write(">>");
